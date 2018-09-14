@@ -1,0 +1,76 @@
+.btn80{width: 80px;}
+.uiTable-borderNone{border: none;}
+.bor_Bd{border-bottom: 1px dotted #e6e6e6;}
+.theadBcNone th{background: #fff;}
+.checkIcon{width: 14px;height: 14px;display: inline-block;background: url(../../images/pic/u427.png) no-repeat;cursor: pointer;}
+.checkedIcon{background-image: url(../../images/pic/u427_selected.png);}
+.BGTColor{background: #0099ff;color: #fff;}
+.BGTColor:hover{background: #009cff;color: #fff;}
+.MouseRightDiv{width: 100%;position: absolute;left: -100%;top: 0;background: #fff;z-index: 9999;padding: 10px;}
+.MouseListBody{margin-top: -1px;}
+.CloseMouseDiv{position: absolute;right: 0;top: 3px;font-size: 16px;width:18px;height: 18px;background: url(../../images/pic/u564.png) no-repeat;background-size: 100%;cursor: pointer;}
+.FXClick,.YWClick,.XCClick,.LSClick{cursor: pointer;}
+.MouseListHead th{padding: 0;}
+.visi-stars{display: inline-block;width: 14px;height: 14px;background:url(../../images/pic/u3216.png) no-repeat;background-size: 100%;margin-bottom: -1px;}
+.visi-zuan{display: inline-block;width: 14px;height: 14px;background:url(../../images/pic/u3220.png) no-repeat;background-size: 100%;margin-bottom: -1px;}
+.visi-ren{display: inline-block;width: 14px;height: 14px;background:url(../../images/pic/u3218.png) no-repeat;background-size: 100%;margin-bottom: -1px;}
+.tc-right{overflow: hidden;}
+.circlesolid-yellow {border-color: #FF9900; color: #FF9900; border-radius: 100%;}
+.circlesolid-red{border-color: #FF0000; color: #FF0000; border-radius: 100%;}
+.circlesolid-gray {border-color: #666; color: #666; border-radius: 100%;}
+.circlesolid-green{border-color: #00CC00; color: #00CC00; border-radius: 100%;}
+.topdaily .topdailybtn.active ,.topdaily .topdailybtn:hover{background-color: #f4f4f5; color: #999;}
+input[type=date]{padding: 0 8px;height: 28px;line-height: 28px;letter-spacing: 1px;border-radius: 3px;vertical-align: middle;}
+.c999{color: #999;}
+.c666{color: #666;}
+
+
+
+
+
+
+
+
+
+#main_content{overflow: hidden;position: relative;}
+.SortDiv{width: 100%;position: absolute;right: -100%;top: 10px;background: #fff;z-index: 9999;padding: 0 10px 10px;}
+.SortHead{height: 143px;}
+.SortHead .TdBackGreen{background: #3c6;color: #fff;}
+.SortFoot .TdBackRed{background: #f00;color: #fff;}
+.trBorGreen td {border-bottom:1px solid #3c6;}
+.trBorRed td{border-bottom:1px solid #ff0000;}
+.CloseSortDiv{
+    position: absolute;
+    width: 54px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    color: #fff;
+    background: #8cdaff;
+    box-shadow: 1px 1px 1px #ccc;
+    border-radius: 3px;
+    right: 0;
+    top: 3px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.RTtab .RTtab-active {
+    background: #8cdaff;
+    color: #fff;
+}
+.RTtab li {
+    float: left;
+    margin-left: 10px;
+    width: 66px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    text-align: center;
+    color: #0099ff;
+    background: #fff;
+    box-shadow: 1px 1px 5px #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    position: relative;
+}
+.thSortBox{display: inline-block;}

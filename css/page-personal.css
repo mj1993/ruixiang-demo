@@ -1,0 +1,161 @@
+.mt3{margin-top: 3px;}
+.width65{ width: 65px;}
+.operate-roleNav li {
+    height: 26px;
+    line-height: 24px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    padding: 0 3px;
+    margin-right: 3px;
+    float: left;
+    cursor: pointer;
+}
+.width95 {width: 95px;}
+.rectify-time {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+.evaluate-textarea{width: 100%; height: 66px; padding: 4px 8px;}
+.mt6 { margin-top: 6px;}
+
+.y-span {
+    position: absolute;
+    right: -3px;
+    bottom: 51px;
+}
+.ji-span {
+    position: absolute;
+    bottom: 5px;
+    right: 17px;
+}
+.formula-div{color: #d6d6d6;position: absolute;right: 50px;top: 50%;margin-top: 6px;}
+.score-strong{position: absolute;right: 45px;top:50%;margin-top: -8px;}
+.personal-img { width: 76px;height: 76px;}
+.width390 {width: 390px;}
+.width24 { width: 24px;}
+.plan-span {
+    width: 20px;
+    height: 20px;
+    background: #00CC00;
+    position: absolute;
+    left: 30px;
+    top: 5px;
+    border-radius: 50%;
+    color: #00CC00;
+    line-height: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.hplan-span {
+    width: 18px;
+    height: 18px;
+    background: #f33;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    border-radius: 50%;
+    color: #00CC00;
+    line-height: 18px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+.money-strong {
+    position: absolute;
+    right: 50px;
+    top: 50%;
+    margin-top: -9px;
+}
+.no-use{width:74px;height:46px;display:block;position:absolute;right:120px;top:50%;margin-top:-23px;background:url(../images/page-personal/no_use.png) no-repeat;}
+
+.edit-span{position: absolute; top: 5px; right: 10px; cursor: pointer;}
+
+
+/*人事入口样式*/
+
+.analyItem.cut-mg2 {
+    min-height: 0;
+}
+
+.analyItem .bgGreens {
+    background: rgb(122, 243, 169);
+    color: rgb(255, 255, 255);
+}
+
+.analyItem .bgGreens2 {
+    background: rgb(51, 204, 102);
+    color: rgb(255, 255, 255);
+}
+
+.zl-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.ptnum {
+    padding-top: 15px;
+    line-height: 24px;
+}
+
+.lh26 {
+    line-height: 26px;
+}
+
+.analyItemCon .J2-title {
+    display: inline-block;
+    line-height: 20px;
+    float: left;
+}
+
+.analyItemCon .J3-title {
+    display: inline-block;
+    line-height: 20px;
+    float: left;
+}
+
+/*人事入口样式结束*/
+
+.passimg {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url('../images/page-personal/passimg.png') no-repeat;
+    background-size: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.passagree {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url('../images/page-personal/passagree.png') no-repeat;
+    background-size: 20px;
+    margin-bottom: -5px;
+    cursor: pointer;
+}
+.auditimg {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../images/page-personal/auditimg.png) no-repeat;
+    background-size: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.wid70-ri {
+    width: 70px;
+    display: inline-block;
+    text-align: right;
+    text-align-last: justify;
+    color: #33adff;
+}
+/*每行评分为5个*/
+.col-md-24{width:20%;float: left}

@@ -1,0 +1,12 @@
+/*项目里的楼盘*/
+threeLayerShow(".build-clickDiv",".build-alert");
+/*项目里的报价*/
+threeLayerShow(".baoJia-clickDiv",".baoJia-alert");
+/*审计*/
+threeLayerShow(".shenJi-clickDiv",".shenJi-alert");
+/*准备*/
+threeLayerShow(".zhunBei-clickDiv",".zhunBei-alert");
+/*款项*/
+threeLayerShow(".kuanXiang-clickDiv",".kuanXiang-alert");
+/*在施的经理*/
+threeLayerShow(".jingLi-clickDiv",".jingLi-alert");
